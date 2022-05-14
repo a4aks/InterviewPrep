@@ -1,0 +1,8 @@
+1. What is hoisting?
+
+Ans:  Hoisting is a concept whch enables us to extract values from variables and functions even before 
+initialising/assigning values without getting any error and this is happening due to first phase(emory execution phase) of execution context.
+
+2. What is scoping?
+
+Ans: 
