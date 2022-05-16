@@ -3,6 +3,10 @@
 Ans:  Hoisting is a concept whch enables us to extract values from variables and functions even before 
 initialising/assigning values without getting any error and this is happening due to first phase(emory execution phase) of execution context.
 
+Hoisting is the JavaScript Default behaviour of moving all declarations to the top of current scope.
+
 2. What is scoping?
 
 Ans: 
+
+dream11, sharechat,quicksilver, tata dgital,vymo,betterplace,GoComet 
